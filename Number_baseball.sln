@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number_baseball", "Number_baseball\Number_baseball.csproj", "{3C07ACE9-17B0-4A47-BDD5-F8EABB3D2F5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NYa9_Server", "NYa9_Server\NYa9_Server.csproj", "{4312D75A-9C1D-40C0-ACF4-665ABA0A1E0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C07ACE9-17B0-4A47-BDD5-F8EABB3D2F5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C07ACE9-17B0-4A47-BDD5-F8EABB3D2F5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C07ACE9-17B0-4A47-BDD5-F8EABB3D2F5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C07ACE9-17B0-4A47-BDD5-F8EABB3D2F5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4312D75A-9C1D-40C0-ACF4-665ABA0A1E0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4312D75A-9C1D-40C0-ACF4-665ABA0A1E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4312D75A-9C1D-40C0-ACF4-665ABA0A1E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4312D75A-9C1D-40C0-ACF4-665ABA0A1E0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61C232EA-40CF-44E9-BE66-B5F3C0347C70}
+	EndGlobalSection
+EndGlobal
